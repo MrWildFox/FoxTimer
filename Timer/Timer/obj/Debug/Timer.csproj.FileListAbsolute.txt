@@ -1,0 +1,9 @@
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\bin\Debug\Timer.exe.config
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\bin\Debug\Timer.exe
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\bin\Debug\Timer.pdb
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\obj\Debug\Timer.csprojResolveAssemblyReference.cache
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\obj\Debug\Timer.FormMain.resources
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\obj\Debug\Timer.exe
+C:\Users\Вадим\Desktop\iPlace\GIT\Timer\depot\Timer\Timer\obj\Debug\Timer.pdb
