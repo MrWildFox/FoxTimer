@@ -28,20 +28,32 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.panelGraphics = new System.Windows.Forms.Panel();
             this.SuspendLayout();
             // 
-            // Form1
+            // panelGraphics
+            // 
+            this.panelGraphics.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panelGraphics.Location = new System.Drawing.Point(13, 13);
+            this.panelGraphics.Name = "panelGraphics";
+            this.panelGraphics.Size = new System.Drawing.Size(259, 207);
+            this.panelGraphics.TabIndex = 0;
+            // 
+            // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "Form1";
+            this.Controls.Add(this.panelGraphics);
+            this.Name = "FormMain";
             this.Text = "Timer v1.0";
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private System.Windows.Forms.Panel panelGraphics;
     }
 }
 
