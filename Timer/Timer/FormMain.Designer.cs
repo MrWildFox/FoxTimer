@@ -33,6 +33,9 @@
             // 
             // panelGraphics
             // 
+            this.panelGraphics.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.panelGraphics.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panelGraphics.Location = new System.Drawing.Point(13, 13);
             this.panelGraphics.Name = "panelGraphics";
