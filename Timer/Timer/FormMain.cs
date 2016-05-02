@@ -16,5 +16,18 @@ namespace Timer
         {
             InitializeComponent();
         }
+
+        private void FormMain_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void FormMain_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            if(e.KeyChar == 's')
+            {
+                
+            }
+        }
     }
 }
